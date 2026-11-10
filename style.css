@@ -60,3 +60,229 @@ h1{
     right: 20%;
     color:rgb(212, 175, 55) 
 }
+
+.main{
+    display: inline;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: rgb(245,243,239);
+    justify-content: space-between;
+}
+.text{
+    justify-content: center;
+    align-items: center;
+    color:rgb(28,28,30);
+    text-align: center;
+}
+.cards1{
+border: 200px;
+background-color: rgb(112, 14, 14) ;
+height: 400px;
+width: 400px;
+color:rgb(245, 245, 245);
+border-radius: 70px;       
+display: flex;
+justify-content:center;
+}
+.cards1 img{
+    position: relative;
+    left: 57px;
+height: 300px;
+width: 400px;
+border-radius: 70px;
+}
+
+.p1{position: relative;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    justify-content: center;
+    right: 200px;
+    font-size: 35px;
+    bottom:-22px;
+}
+.text{
+    font-size: x-large;
+}
+
+.cards2 img{
+    position: relative;
+height: 300px;
+width: 400px;
+border-radius: 70px;
+display: block;
+}
+
+.cards2{
+    background-color:  rgb(112, 14, 14);
+    height: 400px;
+    width: 400px;
+    position: relative;
+    left: 415px;
+    border-radius: 70px;
+    bottom: 400px;
+    color:rgb(245, 245, 245);
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+}
+.p2{
+    font-size: 40px;
+}
+
+.cards3{
+ background-color:  rgb(112, 14, 14);
+    height: 400px;
+    width: 400px;
+    position: relative;
+    left: 830px;
+    top: -800px;
+    font-size: 40px;
+    border-radius: 70px;
+    bottom: 400px;
+    color:rgb(245, 245, 245);
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+}
+
+.cards3 img{
+    position: relative;
+height: 300px;
+width: 400px;
+border-radius: 70px;
+display: block;
+
+}
+
+.cards4{
+    background-color:  rgb(112, 14, 14);
+    height: 400px;
+    width: 400px;
+    position: relative;
+    bottom: 760px;
+    font-size: 40px;
+    border-radius: 70px;
+    display: flex;
+    flex-direction: column;
+    color:rgb(245, 245, 245);
+    align-items: center; 
+}
+
+.cards4 img{
+    position: relative;
+height: 300px;
+width: 400px;
+border-radius: 70px;
+display: block;
+
+}
+
+.cards5{
+    background-color:  rgb(112, 14, 14);
+    height: 400px;
+    width: 400px;
+    position: relative;
+    bottom: 1160px;
+    left: 421px;
+    font-size: 40px;
+    border-radius: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:rgb(245, 245, 245);
+}
+.cards5 img{
+    position: relative;
+    height: 300px;
+    width: 400px;
+    border-radius: 70px;
+    display: block;
+    
+}
+
+.nowcards6{
+    position: relative;
+    right: -400px;
+    background-color:  rgb(112, 14, 14);
+    height: 400px;
+    width: 400px;
+    position: relative; 
+    bottom: 1560px;
+    left: 840px;
+    font-size: 40px;
+    border-radius: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:rgb(245, 245, 245);
+
+}
+
+.nowcards6 img{
+    position: relative;
+    height: 300px;
+    width: 400px;
+    border-radius: 70px;
+}
+.hotel{
+        height: 200px;
+        width: 400px;
+        position: relative;
+        bottom: 1550px;
+        left:430px;    
+font-size: xx-large;
+/* justify-content: center; */
+align-items: center;
+color:rgb(28,28,30);
+text-align: center;
+}
+h3{
+    position: relative;
+    top: 15px;
+}
+.images{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+border: 2px solid blue ;
+
+}
+
+.img1, .img2, .img3, .img4, .img5,
+.img6, .img7, .img8{
+    width: 200px; 
+    height: 200px;
+    position: relative;
+
+}
+
+.facilities{
+    text-align: center;
+    font-size: x-large;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    gap: 30px;
+    bottom: 1500px;
+}
+.box{
+    align-items: center;    
+}
+.box8{
+    position: relative;
+    right: 30px;
+}
+.box5{
+    position: relative;
+    right: 10px;
+}
+.box6{
+    position: relative;
+    right: 10px;
+}
+.box7{
+    position: relative;
+    right: 40px;
+}
